@@ -1,0 +1,3 @@
+matplotlib
+pandas
+schedule>=1.2,<2
